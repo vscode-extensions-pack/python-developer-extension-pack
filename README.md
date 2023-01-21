@@ -1,1 +1,3 @@
-# python-developer-extension-pack
+# Python Developer Extension Pack
+
+## VS Code Extensions for Python Developer
